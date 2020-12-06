@@ -10,7 +10,7 @@
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/islamelhady">
-        <img src="https://img.shields.io/badge/-islam%20el%20hady-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
 </p>
