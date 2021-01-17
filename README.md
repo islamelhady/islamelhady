@@ -6,7 +6,7 @@
 
 
 <!-- Reach Me  -->
-## Reach Me
+### Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/islamelhady">
@@ -19,7 +19,7 @@
 
 
 <!-- Streak stats  -->
-## Streak stats
+### Streak stats
 
 <p align="center">
   <a href="http://github.com/islamelhady">
