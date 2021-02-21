@@ -21,9 +21,10 @@
 <!-- Streak stats  -->
 ### Streak stats
 
+
 <p align="center">
   <a href="http://github.com/islamelhady">
-    <img title="el hady 🔥" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
+    <img title="el hady 🔥" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
   </a>
  </p>
 
