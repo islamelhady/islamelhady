@@ -10,7 +10,7 @@
 
 
 <!-- Reach Me  -->
-## 🙋‍♂️ Reach Me
+## Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/islamelhady" alt="LinkedIn">
@@ -21,7 +21,7 @@
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
 </p>
 
-## 🔥 Streak stats
+## Streak stats
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -29,10 +29,9 @@
   </a>
  </p>
 
-  ## 📊 Github stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary> GitHub Profile Stats</summary>
 <p align="center">
 <a href="https://github.com/islamelhady">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islamelhady&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
