@@ -13,8 +13,8 @@
 ## Reach Me
 
 <p id="socialIcons" align="center">
-    <a href="https://linkedin.com/in/islamelhady" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/islamelhady">
+        <img src="https://img.shields.io/badge/-islam%20el%20hady-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://hackerrank.com/islamelhady" alt="HackerRank">
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
     <a href="https://github.com/islamelhady/" alt="islamelhady">
