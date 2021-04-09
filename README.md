@@ -29,6 +29,19 @@
   </a>
  </p>
 
+  ## 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+<p align="center">
+<a href="https://github.com/islamelhady">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islamelhady&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islamelhady&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
+</a>
+</p>
+</details>
+
 
 
 
