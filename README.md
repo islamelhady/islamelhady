@@ -4,10 +4,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=a passionate%20self-taught%20android developer%20java%and%20kotlin;Self-taught%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
-## Reach Me
+## 🙋‍♂️ Reach Me
 
 <p id="socialIcons" align="center">
     <a href="https://linkedin.com/in/islamelhady" alt="LinkedIn">
@@ -24,7 +24,7 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
@@ -45,12 +45,14 @@
 </p>
 </details>
 
-
-<details>
-<summary>📈 Activity Graph
   
+ <details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=islamelhady&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
   
+
 </details>
 
 
@@ -61,7 +63,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-   
+
  
 
 <!--
