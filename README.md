@@ -14,20 +14,12 @@
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
     <a href="https://instagram.com/islamelhady" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://github.com/DenverCoder1/Simple-View-Counter" alt="islamelhady">
+    <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
   
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
+  
 </p>
-
-<a href="https://www.linkedin.com/in/islamelhady/">
-  <img align="left" alt="elHady's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square"
-                     alt="islamelhady"/>
-
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
