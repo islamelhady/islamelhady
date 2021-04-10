@@ -4,12 +4,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=a%20passionate%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=a%20passionate%20self-taught%20android%20developer;and%20a%20freelance%20software%20engineer;I%20am%20also%20an%20open-source%20enthusiast%20and%20maintainer;I%20learned%20a%20lot%20from%20the%20open-source&center=true&width=380&height=50">
 </p>
-
-a passionate self-taught android developer and a freelance software engineer from Egypt. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
 ## 🙋‍♂️ Reach Me
@@ -32,7 +28,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Islam El Hady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
   
@@ -61,12 +57,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </details>
 
 
-Hi, I'm [Islam El Hady](https://islamelhady.github.io/website/index.html), a passionate self-taught android developer and a freelance software engineer from Egypt. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
  
