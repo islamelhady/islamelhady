@@ -3,6 +3,21 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+## Reach Me
+
+<p id="socialIcons" align="center">
+    <a href="https://linkedin.com/in/islamelhady" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://hackerrank.com/islamelhady" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+    <a href="https://stackoverflow.com/users/13870209/ahsan-khan" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://instagram.com/islamelhady" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://ahsankhan.me" alt="website">
+        <img src="https://img.shields.io/badge/-ahsankhan.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+</p>
+
 <a href="https://www.linkedin.com/in/islamelhady/">
   <img align="left" alt="elHady's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
