@@ -32,13 +32,12 @@
 ## 👨‍💻 Languages and tools
 
 <p align="center">
-  
-  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Ajava">
-    <img alt="Java" title="Java" height="36px"
-      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
   <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Akotlin">
     <img alt="Kotlin" title="Kotlin" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
+  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Ajava">
+    <img alt="Java" title="Java" height="36px"
+      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
    <a href="https://github.com/islamelhady/problem-solving/search?l=c%2B%2B">
     <img alt="C++" title="C++" height="36px"
       src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>   
