@@ -8,7 +8,6 @@
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🙋‍♂️ Reach Me
 
@@ -22,7 +21,11 @@
     <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
   
-  
+</p>
+
+<p  align="center">
+  <a href="" alt="LinkedIn">
+        <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></a>
 </p>
 
 ## 🔥 Streak stats
