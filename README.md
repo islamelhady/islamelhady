@@ -61,7 +61,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/islamelhady">
     <img title=" Islam El Hady 🔥 " alt="Islam El Hady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
