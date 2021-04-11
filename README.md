@@ -6,7 +6,7 @@
 <!-- Welcome Readme -->
 
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
 <!-- Reach Me  -->
