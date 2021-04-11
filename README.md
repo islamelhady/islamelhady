@@ -50,6 +50,11 @@
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
   <a><img alt="Android Studio" title="Android Studio" height="36px"
       src="https://i.imgur.com/6nJGNMN.png"></a>
+  <a><img alt="Illustrator" title="Illustrator" height="36px"
+      src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/illustrator-512.png"></a>
+   <a><img alt="Photoshop" title="Photoshop" height="36px"
+      src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/photoshop-512.png"></a>
+      
   
 </p>
 
