@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=a%20passionate%20self-taught%20android%20developer;and%20a%20freelance%20software%20engineer;I%20am%20also%20an%20open-source%20enthusiast%20and%20maintainer;I%20learned%20a%20lot%20from%20the%20open-source&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 🙋‍♂️ Reach Me
 
@@ -28,10 +30,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Islam El Hady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title=" Islam El Hady 🔥 " alt="Islam El Hady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
-  
+ 
+
 
 
 ## 📊 Github stats
@@ -56,8 +59,6 @@
 
 </details>
 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
  
