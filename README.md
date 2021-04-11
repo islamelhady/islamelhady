@@ -33,25 +33,24 @@
 
 <p align="center">
   
-   <a><img alt="Android Studio" title="Android Studio" height="36px"
-      src="https://i.imgur.com/6nJGNMN.png"></a>
-  <a href="https://github.com/islamelhady/problem-solving/search?l=c%2B%2B">
-    <img alt="C++" title="C++" height="36px"
-      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
   <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Ajava">
     <img alt="Java" title="Java" height="36px"
       src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
   <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Akotlin">
     <img alt="Kotlin" title="Kotlin" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
+   <a href="https://github.com/islamelhady/problem-solving/search?l=c%2B%2B">
+    <img alt="C++" title="C++" height="36px"
+      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>   
   <a><img alt="Sheets" title="Sheets" height="36px" 
-      src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>   
-  <a><img alt="Word" title="Word" height="36px" 
-      src="https://img.icons8.com/color/48/000000/google-docs.png"></a>      
+      src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>
   <a><img alt="GitHub" title="GitHub" height="36px"
-      src="https://i.imgur.com/DZgetVv.png"></a> 
+      src="https://i.imgur.com/DZgetVv.png"></a>
   <a><img alt="Terminal" title="Terminal" height="36px"
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
+  <a><img alt="Android Studio" title="Android Studio" height="36px"
+      src="https://i.imgur.com/6nJGNMN.png"></a>
+  
 </p>
 
 ## 🔥 Streak stats
