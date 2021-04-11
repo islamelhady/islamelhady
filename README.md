@@ -3,12 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<!-- Welcome Readme -->
 
 <p align="center">
   <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=50">
 </p>
 
-
+<!-- Reach Me  -->
 ## 🙋‍♂️ Reach Me
 
 <p id="socialIcons" align="center">
@@ -20,12 +21,37 @@
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
     <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
-  
 </p>
 
 <p  align="center">
   <a href="" alt="LinkedIn">
-        <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></a>
+       <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></a>
+</p>
+
+
+## 👨‍💻 Languages and tools
+
+<p align="center">
+  
+   <a><img alt="Android Studio" title="Android Studio" height="36px"
+      src="https://i.imgur.com/6nJGNMN.png"></a>
+  <a href="https://github.com/islamelhady/problem-solving/search?l=c%2B%2B">
+    <img alt="C++" title="C++" height="36px"
+      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>
+  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Ajava">
+    <img alt="Java" title="Java" height="36px"
+      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
+  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Akotlin">
+    <img alt="Kotlin" title="Kotlin" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
+  <a><img alt="Sheets" title="Sheets" height="36px" 
+      src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>   
+  <a><img alt="Word" title="Word" height="36px" 
+      src="https://img.icons8.com/color/48/000000/google-docs.png"></a>      
+  <a><img alt="GitHub" title="GitHub" height="36px"
+      src="https://i.imgur.com/DZgetVv.png"></a> 
+  <a><img alt="Terminal" title="Terminal" height="36px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
 </p>
 
 ## 🔥 Streak stats
