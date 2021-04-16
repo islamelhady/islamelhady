@@ -23,10 +23,7 @@
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
 </p>
 
-<p  align="center">
-  <a href="" alt="LinkedIn">
-       <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></a>
-</p>
+
 
 
 ## 👨‍💻 Languages and tools
@@ -82,14 +79,6 @@
 </p>
 </details>
   
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=islamelhady&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-  
-
-</details>
 
   
 
