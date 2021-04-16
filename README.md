@@ -26,61 +26,7 @@
 
 
 
-## 👨‍💻 Languages and tools
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Akotlin">
-    <img alt="Kotlin" title="Kotlin" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>
-  <a href="https://github.com/search?q=user%3Aislamelhady+is%3Arepo+language%3Ajava">
-    <img alt="Java" title="Java" height="36px"
-      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a>
-   <a href="https://github.com/islamelhady/problem-solving/search?l=c%2B%2B">
-    <img alt="C++" title="C++" height="36px"
-      src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a>   
-  <a><img alt="Sheets" title="Sheets" height="36px" 
-      src="https://img.icons8.com/color/48/000000/google-sheets.png"></a>
-  <a><img alt="GitHub" title="GitHub" height="36px"
-      src="https://i.imgur.com/DZgetVv.png"></a>
-  <a><img alt="Terminal" title="Terminal" height="36px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>
-  <a><img alt="Android Studio" title="Android Studio" height="36px"
-      src="https://i.imgur.com/6nJGNMN.png"></a>
-  <a><img alt="Illustrator" title="Illustrator" height="36px"
-      src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/illustrator-512.png"></a>
-   <a><img alt="Photoshop" title="Photoshop" height="36px"
-      src="https://cdn1.iconfinder.com/data/icons/designer-skills/128/photoshop-512.png"></a>
-      
-  
-</p>
-
-## 🔥 Streak stats
-
-
-<p align="center">
-  <a href="https://github.com/islamelhady">
-    <img title=" Islam El Hady 🔥 " alt="Islam El Hady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=islamelhady&theme=black-ice&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
-  </a>
- </p>
- 
-
-
-
-## 📊 Github stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-<p align="center">
-<a href="https://github.com/islamelhady">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islamelhady&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islamelhady&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
-</a>
-</p>
-</details>
-  
-
-  
 
  
 
