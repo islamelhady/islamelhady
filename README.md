@@ -5,9 +5,7 @@
 
 <!-- Welcome Readme -->
 
-<p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=Android%20Developer%20Java%20and%20Kotlin;Self-taught%20design%20pattern;I%20learned%20a%20lot%20from%20the%20open-source;Always%20learning%20new%20things&center=true&width=400&height=50">
-</p>
+
 
 
 
