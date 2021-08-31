@@ -9,8 +9,6 @@
 ### Reach Me
 
 <p id="socialIcons" align="center">
-  <a href="https://twitter.com/islamelhadyy" alt="islamelhady">
-        <img src="https://img.shields.io/badge/elhady-1da1f2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/islamelhady">
         <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:islam.elhadyy@gmail.com" alt="islamelhady">
