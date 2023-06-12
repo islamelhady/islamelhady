@@ -8,13 +8,22 @@
 <!-- Reach Me  -->
 ### Reach Me
 
+
 <p id="socialIcons" align="center">
+  
   <a href="https://linkedin.com/in/islamelhady">
-        <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  
+  <a href="https://www.hackerrank.com/islamelhady">
+  <img src="https://img.shields.io/badge/-HackerRank-2ec866?style=flat-square&logo=HackerRank&logoColor=white"/>
+   
+    
   <a href="mailto:islam.elhadyy@gmail.com" alt="islamelhady">
         <img src="https://img.shields.io/badge/islam.elhadyy@gmail.com-30302f?style=flat-square&logo=Gmail&logoColor=#e84c3a" /></a>
+    
   <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
+    
 </p>
 
 
@@ -36,6 +45,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islamelhady&show_icons=true&theme=gotham&include_all_commits=true&cache_seconds=1800&show_owner=true&title_color=5fd8f9&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islamelhady&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/>
+  
 </a>
 </p>
 </details>
