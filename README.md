@@ -14,9 +14,6 @@
   
   <a href="https://linkedin.com/in/islamelhady">
         <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  
-  <a href="https://www.hackerrank.com/islamelhady">
-  <img src="https://img.shields.io/badge/-HackerRank-2ec866?style=flat-square&logo=HackerRank&logoColor=white"/>
    
     
   <a href="mailto:islam.elhadyy@gmail.com" alt="islamelhady">
