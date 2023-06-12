@@ -1,5 +1,6 @@
 <h3 align="center">
-  I'm eager to learn and have passion of coding and problem solving!
+  I'm eager to learn and have a passion for coding and problem-solving
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
