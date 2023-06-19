@@ -12,15 +12,17 @@
 
 <p id="socialIcons" align="center">
   
-  <a href="https://linkedin.com/in/islamelhady">
-        <img src="https://img.shields.io/badge/-islam%20elhady-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://linkedin.com/in/islamelhady">
+        <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
    
-    
   <a href="mailto:islam.elhadyy@gmail.com" alt="islamelhady">
         <img src="https://img.shields.io/badge/islam.elhadyy@gmail.com-30302f?style=flat-square&logo=Gmail&logoColor=#e84c3a" /></a>
     
   <a href="https://github.com/islamelhady/" alt="islamelhady">
         <img src="https://komarev.com/ghpvc/?username=islamelhady&label=Profile%20views&color=258f76&style=flat-square" /></a>
+
+  <a href="https://www.hackerrank.com/islamelhady" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
     
 </p>
 
