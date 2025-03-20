@@ -26,7 +26,7 @@
 ### Streak stats
 <p align="center">
   <a href="http://github.com/islamelhady">
-    <img title="elhady 🔥" alt="" src="https://streak-stats.demolab.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
+    <img title="elhady 🐺" alt="" src="https://streak-stats.demolab.com/?user=islamelhady&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=258f76"/>
   </a>
  </p>
 
