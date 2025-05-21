@@ -39,16 +39,15 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islamelhady&layout=compact&title_color=5fd8f9&show_owner=true&langs_count=8&theme=gotham"/></a>
 </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=dagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-5C2D91?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MVVM%2FMVI-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Coroutines-F88909?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=dagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-00897B?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM%2FMVI-5C6BC0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-009688?style=flat-square"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 </details>
